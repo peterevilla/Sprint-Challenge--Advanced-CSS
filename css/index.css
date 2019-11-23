@@ -196,6 +196,9 @@ p {
   .nav_bar .menu {
     color: white;
   }
+  .nav_bar .logo {
+    color: black;
+  }
 }
 footer {
   color: #22283B;
